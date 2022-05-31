@@ -1,0 +1,1 @@
+<h1>this is the footer stuff added by the layout story</h1>
